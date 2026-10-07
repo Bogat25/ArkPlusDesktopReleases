@@ -14,4 +14,14 @@
 <!-- agent-context:kernel:end -->
 
 ## This repository
-<!-- Tier 1 repo contract (build/test/deploy, idioms) goes here -->
+<!-- agent-context:contract:start sha=b2627545c4cf359734d237e9c1a61ba332eb6359f031e59bd83f25820f41aba9 -->
+> Synced from `AgentContext/kernel/repos/ArkPlusReleases.md` by `AgentContext/scripts/sync.ps1`. Edit it there, not here.
+> `[[name]]` is a platform doc: `AgentContext/corpus/platform/name.md`, or `read("name")` on the agent-context MCP server.
+
+A placeholder: the repository holds only an empty `Readme.md` (2026-07-12) and `AGENTS.md`. Default branch `main`.
+
+It is **not** the desktop release feed. ArkPlusDesktop publishes its Velopack releases to `Bogat25/ArkPlusDesktopReleases` (`ArkPlusDesktop/.github/workflows/release-desktop.yml`).
+
+### Build, test, deploy
+None.
+<!-- agent-context:contract:end -->
