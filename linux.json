@@ -1,0 +1,9 @@
+{
+  "tools": [],
+  "not_applicable": {
+    "test": "Release-feed placeholder: no application or test suite.",
+    "build": "Release-feed placeholder: no buildable sources.",
+    "images": "No container images."
+  },
+  "schema": 1
+}
